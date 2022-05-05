@@ -1,5 +1,6 @@
 <p align="center">
    <img src="./.github/logo.png" alt="NLW Return logo" width="350"/>
+   <br/>
    <img src="./.github/cover.png" alt="Project cover from figma" width="350"/>
 </p>
 
